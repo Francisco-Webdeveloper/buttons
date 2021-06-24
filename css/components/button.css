@@ -12,3 +12,18 @@
   text-decoration: none;
   color: #999999;
 }
+
+.btn-treehouse {
+  color: white;
+  background-color: #6AD58B;
+  border-radius: 4px;
+  padding: 15px 25px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.btn-treehouse:hover {
+  opacity: 1;
+  background-color: #3ac162;
+  text-decoration: none;
+}
