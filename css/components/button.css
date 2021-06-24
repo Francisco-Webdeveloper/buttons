@@ -27,3 +27,12 @@
   background-color: #3ac162;
   text-decoration: none;
 }
+
+.btn-yours {
+  color: blue;
+  background-color: yellow;
+  border-radius: 30px;
+  border: 2px solid blue;
+  padding: 15px 25px;
+
+}
